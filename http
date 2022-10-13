@@ -1,0 +1,11 @@
+1. a) GET / HTTP/1.1
+   Host: httpbin.org
+  
+   b) GET /HTTP_METHODS/1.1
+   Host: httpbin.org
+
+
+   c) POST / HTTP/1.1
+      Host: httpbin.org
+      Content-Length: 5
+      one = 1
